@@ -4,6 +4,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Greetings everyone, this is a replica of IIITV Official website. You may find the tutorial link attached below 
+Open [https://drive.google.com/file/d/1gAzPfKUUytXf82eMU1zvZ5Y7W6pbqqnc/view?usp=sharing] to view the website video. 
+
 ## Available Scripts
 
 In the project directory, you can run:
