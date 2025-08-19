@@ -3,7 +3,6 @@ A modern full-stack replica of IIIT Vadodara's website with enhanced UI, accessi
 
 ![Tech](https://img.shields.io/badge/Stack-MERN-green?style=for-the-badge)  
 ![Responsive](https://img.shields.io/badge/UI-Responsive-blue?style=for-the-badge)  
-![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
 ## Overview
 This project replicates the **IIIT Vadodara official website** with improved UI/UX, accessibility, and modern web technologies.  
